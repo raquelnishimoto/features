@@ -1,0 +1,23 @@
+{
+  "name": "features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquelnishimoto/features.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raquelnishimoto/features/issues"
+  },
+  "homepage": "https://github.com/raquelnishimoto/features#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
